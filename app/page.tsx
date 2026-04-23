@@ -56,7 +56,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Hello Al Fathir
+            Hello Al Fathir!
           </a>
         </div>
       </main>
